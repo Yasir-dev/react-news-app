@@ -5,6 +5,3 @@ I created this App as a fun project while learning ReactJS. This app get news fr
 
 ![app](https://github.com/Yasir-dev/react-news-app/blob/master/news_app_diagram.png)
 
-## Demo 
-
-http://yasir-news-app.s3-website.eu-central-1.amazonaws.com/
